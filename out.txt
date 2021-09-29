@@ -1,0 +1,8 @@
+0001: Tue 15:43: cd ..
+0002: Tue 15:43: find .
+0003: Tue 15:43: find . | wc -l
+0004: Tue 15:44: cd P4
+0005: Tue 15:44: history | sort
+0006: Tue 15:44: history
+0007: Tue 15:44: history | wc -l
+0008: Tue 15:44: history > out.txt

@@ -1,0 +1,10 @@
+0012: ??: jobs
+0013: Tue 16:22: jobs | sort > ~/1730/wcepdqwsdxjawdokadawcd.txt
+0014: Tue 16:22: jobs
+0015: Tue 16:22: clear
+0016: Tue 16:23: sort  < ~ingrid/1730/tt1yosh/data/words.txt | wc  | wc -l
+0017: Tue 16:23: sort /home/myid/ingrid/1730/tt1yosh/data/words.txt | wc -l
+0018: Tue 16:23: sort  <  ~ingrid/1730/tt1yosh/data/words.txt | uniq | wc 
+0019: Tue 16:23: help
+0020: Tue 16:23: history
+0021: Tue 16:23: history > ~/1730/P4/ouasdsat.txt

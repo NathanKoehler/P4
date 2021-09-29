@@ -1,0 +1,32 @@
+P4:
+total 1344
+-rwxr-xr-x. 1 myid       0 Apr 18 22:48 bogus
+-rw-r--r--. 1 myid       0 Apr 16 23:34 cat
+-rw-r--r--. 1 myid     807 Apr 15 22:27 DIRECTORY.html
+-rw-r--r--. 1 myid       0 Apr 15 22:27 foo
+-rw-r--r--. 1 myid       0 Apr 15 22:27 foofoofeefoo
+-rwxr-xr-x. 1 myid  164000 Apr 20 14:07 histexamp
+-rw-r--r--. 1 myid    2869 Apr 20 12:30 histexamp.c
+-rw-r--r--. 1 myid   10112 Apr 20 14:07 histexamp.o
+-rw-------. 1 myid      17 Apr 20 12:19 history_file
+-rw-r--r--. 1 myid     807 Apr 15 22:27 index.html
+-rw-r--r--. 1 myid     799 Apr 20 12:19 Makefile
+-rw-r--r--. 1 myid     627 Apr 15 22:27 Makefile.odin
+-rw-r--r--. 1 myid    7528 Apr 18 22:56 parse.c
+-rw-r--r--. 1 myid     758 Apr 15 22:27 parse.h
+-rw-r--r--. 1 myid   14768 Apr 20 12:19 parse.o
+-rw-r--r--. 1 myid    2402 Apr 16 03:24 pipe.c
+-rw-r--r--. 1 myid    1266 Apr 15 22:27 README-parser.txt
+-rw-r--r--. 1 myid     628 Apr 15 22:27 README-readline-odin.txt
+-rw-r--r--. 1 myid    1620 Apr 20 04:57 README.txt
+-rw-r--r--. 1 myid    1322 Apr 20 00:00 rec24121
+-rw-r--r--. 1 myid    1358 Apr 20 06:28 rec2491
+-rw-r--r--. 1 myid       0 Apr 20 15:40 rec7595
+-rw-r--r--. 1 myid     399 Apr 15 22:27 rlbasic.c
+-rw-r--r--. 1 myid    2822 Apr 18 23:08 shell.c
+-rw-r--r--. 1 myid       0 Apr 16 23:33 sort
+-rw-r--r--. 1 myid       3 Apr 20 05:10 test.txt
+-rwxr-xr-x. 1 myid 1044896 Apr 20 15:35 yosh
+-rw-r--r--. 1 myid   22100 Apr 20 15:14 yosh.c
+-rw-r--r--. 1 myid   31144 Apr 20 15:35 yosh.o
+/home/myid/nak57317/1730/P4:/home/myid/csci-1730
